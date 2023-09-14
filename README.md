@@ -6,8 +6,5 @@
  <img alt="Cheezcharmer" src="https://cheezcharmer.org/logo.png" width="256">
 </picture>
 
- Contact me for your blockchain projects
-
-[Email](mailto:dev@cheezcharmer.org)
 
 
